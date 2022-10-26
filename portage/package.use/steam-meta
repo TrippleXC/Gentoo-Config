@@ -1,0 +1,3 @@
+games-util/steam-client-meta pulseaudio steamruntime trayicon -steamvr
+games-util/steam-launcher -joystick
+gnome-extra/zenity libnotify

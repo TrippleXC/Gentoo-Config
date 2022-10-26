@@ -1,0 +1,4 @@
+x11-misc/dmenu xinerma
+x11-musc/i3status filecaps pulseaudio
+
+x11-misc/polybar pulseaudio i3wm network -alsa -mpd 

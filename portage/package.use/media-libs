@@ -1,0 +1,3 @@
+media-libs/mesa X wayland vulkan
+media-libs/libglvnd X
+>=media-libs/libepoxy-1.5.10-r1 X #(Enable XWayland)

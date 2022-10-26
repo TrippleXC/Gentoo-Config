@@ -1,0 +1,1 @@
+dev-lang/rust nightly parallel-compiler rustfmt rust-src profiler rls -doc -debug

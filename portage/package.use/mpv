@@ -1,0 +1,1 @@
+media-video/mpv drm lua gbm opengl pulseaudio wayland egl -vdpau -xv

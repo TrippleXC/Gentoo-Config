@@ -1,0 +1,4 @@
+>=sys-apps/dbus-1.15.2 X
+>=net-misc/spice-gtk-0.41 usbredir
+>=net-dns/dnsmasq-2.86-r1 script
+app-emulation/virt-manager gui
